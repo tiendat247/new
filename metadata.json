@@ -1,6 +1,7 @@
 {
   "name": "BlockSync",
-  "website": "http://block-sync.com",
-  "description": "BlockSync - Trusted Validator",
-  "twitter": "https://twitter.com/blocksync247"
+  "website": "https://docs.block-sync.com",
+  "description": "Trusted Validator",
+  "logo": "https://raw.githubusercontent.com/tiendat247/new/main/logo_400x400.png",
+  "twitter": ""
 }
